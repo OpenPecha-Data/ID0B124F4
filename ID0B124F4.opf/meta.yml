@@ -1,0 +1,606 @@
+id: ID0B124F4
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T14:45:13.792473'
+last_modified: '2022-05-27T14:45:13.792492'
+parser: null
+source_metadata:
+  title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+  language: zh
+  base:
+    f2BFB:
+      title: CI_1. Introduction
+      base_file: f2BFB.txt
+      order: 1
+    f0973:
+      title: CI_2. The extinction of self
+      base_file: f0973.txt
+      order: 2
+    fD57E:
+      title: CI_3. The meaning of ’Bodhisattva’
+      base_file: fD57E.txt
+      order: 3
+    f8078:
+      title: CI_4. The meaning of ’great being’
+      base_file: f8078.txt
+      order: 4
+    f70E9:
+      title: CI_5. The meaning of ’great vehicle’
+      base_file: f70E9.txt
+      order: 5
+    f383B:
+      title: CI_6. Attainment
+      base_file: f383B.txt
+      order: 6
+    fB474:
+      title: CXXVIII_2. Praise of perfect wisdom
+      base_file: fB474.txt
+      order: 7
+    f38C8:
+      title: CII_2. How to stand in emptiness, or the perfection of wisdom
+      base_file: f38C8.txt
+      order: 8
+    f75D5:
+      title: CII_3. The saints and their goal are illusions
+      base_file: f75D5.txt
+      order: 9
+    f3A7F:
+      title: CII_4. Sakra’s flowers
+      base_file: f3A7F.txt
+      order: 10
+    fFC99:
+      title: CII_5. Training in perfect wisdom
+      base_file: fFC99.txt
+      order: 11
+    fA951:
+      title: CII_6. The infinitude of perfect wisdom
+      base_file: fA951.txt
+      order: 12
+    f28E1:
+      title: CII_7. Confirmation
+      base_file: f28E1.txt
+      order: 13
+    f79A9:
+      title: CIII_1. Worldly advantages of perfect wisdom
+      base_file: f79A9.txt
+      order: 14
+    fCD36:
+      title: CIII_2. The cult of perfect wisdom compared with the cult of the buddhas
+      base_file: fCD36.txt
+      order: 15
+    fA2B4:
+      title: CIII_3. Perfect wisdom, a great spell
+      base_file: fA2B4.txt
+      order: 16
+    fDFAA:
+      title: CIII_4. Perfect wisdom, and the other perfections
+      base_file: fDFAA.txt
+      order: 17
+    f368F:
+      title: CIII_5. Further advantages from perfect wisdom
+      base_file: f368F.txt
+      order: 18
+    f6734:
+      title: CIV_1. Relative value of tathagata-relics and of perfect wisdom
+      base_file: f6734.txt
+      order: 19
+    f9F1D:
+      title: CIV_2. Simile of the wishing jewel
+      base_file: f9F1D.txt
+      order: 20
+    f2252:
+      title: CIV_3. Supreme value of the perfection of wisdom
+      base_file: f2252.txt
+      order: 21
+    f5B34:
+      title: CV_1. The perfection of wisdom a source of great merit
+      base_file: f5B34.txt
+      order: 22
+    f1484:
+      title: CV_2. The counterfeit perfection of wisdom
+      base_file: f1484.txt
+      order: 23
+    f7855:
+      title: CV_3. The perfection of wisdom greater than any other spiritual gift
+      base_file: f7855.txt
+      order: 24
+    f886A:
+      title: CVI_1. Supreme merit of dedication and jubilation
+      base_file: f886A.txt
+      order: 25
+    f1B63:
+      title: CVI_2. The range of jubilation
+      base_file: f1B63.txt
+      order: 26
+    f99B6:
+      title: CVI_3. A metaphysical problem
+      base_file: f99B6.txt
+      order: 27
+    f4693:
+      title: CVI_4. How perverted views can be avoided
+      base_file: f4693.txt
+      order: 28
+    f3664:
+      title: CVI_5. Considerations of merit
+      base_file: f3664.txt
+      order: 29
+    f526C:
+      title: CVII_1. Hymm to the perfection of wisdom
+      base_file: f526C.txt
+      order: 30
+    f487D:
+      title: CVII_2. Predominance of perfect wisdom over the other perfections
+      base_file: f487D.txt
+      order: 31
+    f9579:
+      title: CVII_3. Nothing procured by perfect wisdom
+      base_file: f9579.txt
+      order: 32
+    f47C4:
+      title: CVII_4. Why the perfection of wisdom is great
+      base_file: f47C4.txt
+      order: 33
+    fBBF5:
+      title: CVII_5. Causes of belief in the perfection of wisdom
+      base_file: fBBF5.txt
+      order: 34
+    fC4F6:
+      title: CVII_6. Causes and consequences of disbelief
+      base_file: fC4F6.txt
+      order: 35
+    fA6B7:
+      title: CVIII_1. Depth and purity of perfect wisdom
+      base_file: fA6B7.txt
+      order: 36
+    fE381:
+      title: CVIII_2. Attachments
+      base_file: fE381.txt
+      order: 37
+    f29AA:
+      title: CVIII_3. Non-attachment
+      base_file: f29AA.txt
+      order: 38
+    f9A11:
+      title: CVIII_4. Like space or an echo
+      base_file: f9A11.txt
+      order: 39
+    f8CB2:
+      title: CVIII_5. Conclusion
+      base_file: f8CB2.txt
+      order: 40
+    fB8B9:
+      title: CIX_1. Perfect wisdom perfectly pure
+      base_file: fB8B9.txt
+      order: 41
+    f27DB:
+      title: CIX_2. Effects of perfect wisdom
+      base_file: f27DB.txt
+      order: 42
+    fB1B4:
+      title: CIX_3. The second turning of the wheel of dharma
+      base_file: fB1B4.txt
+      order: 43
+    fCD3D:
+      title: CIX_4. Modes and qualities of perfect wisdom
+      base_file: fCD3D.txt
+      order: 44
+    f5098:
+      title: CX_1. Past deeds, and the present attitude to perfect wisdom
+      base_file: f5098.txt
+      order: 45
+    fE2E7:
+      title: CX_2. Qualifications of a bodhisattva who obtains perfect wisdom
+      base_file: fE2E7.txt
+      order: 46
+    fBB3D:
+      title: CX_3. Five similes to illustrate nearness to full enlightenment
+      base_file: fBB3D.txt
+      order: 47
+    fB55F:
+      title: CX_4. Why bodhisattvas are well favoured by the buddhas
+      base_file: fB55F.txt
+      order: 48
+    fA4AA:
+      title: CX_5. right attitude to perfect wisdom
+      base_file: fA4AA.txt
+      order: 49
+    f6F8F:
+      title: CX_6. Obstacles to perfect wisdom
+      base_file: f6F8F.txt
+      order: 50
+    f4F2F:
+      title: CX_7. The bodhisattva sustained by the buddhas
+      base_file: f4F2F.txt
+      order: 51
+    f046D:
+      title: CX_8. Prediction about spread of perfect wisdom
+      base_file: f046D.txt
+      order: 52
+    f9A5C:
+      title: CX_9. Description of bodhisattvas who will study perfect wisdom
+      base_file: f9A5C.txt
+      order: 53
+    f8B4C:
+      title: CXI_1. Various deeds of Mara
+      base_file: f8B4C.txt
+      order: 54
+    fC5E9:
+      title: CXI_2. The perfection of wisdom and the sutras of the disciples
+      base_file: fC5E9.txt
+      order: 55
+    fED91:
+      title: CXI_3. Various deeds of Mara
+      base_file: fED91.txt
+      order: 56
+    f855F:
+      title: CXI_4. Sources of discord between teacher and pupil
+      base_file: f855F.txt
+      order: 57
+    fB5F6:
+      title: CXI_5. Misdirection of aim
+      base_file: fB5F6.txt
+      order: 58
+    fF2A1:
+      title: CXI_6. More discord between teacher and pupil
+      base_file: fF2A1.txt
+      order: 59
+    f1124:
+      title: CXI_8. Antagonism between Mara and Buddha
+      base_file: f1124.txt
+      order: 60
+    fD941:
+      title: CXII_1. Perfect wisdom the mother of the Buddhas
+      base_file: fD941.txt
+      order: 61
+    fACE4:
+      title: CXII_2. How the Tathagata knows the world
+      base_file: fACE4.txt
+      order: 62
+    f9448:
+      title: CXII_3. How the Tathagata knows the thoughts of beings*
+      base_file: f9448.txt
+      order: 63
+    f1242:
+      title: CXII_4. Deep marks, and how they are fastened
+      base_file: f1242.txt
+      order: 64
+    fFFF8:
+      title: CXII_5. The world shown as empty
+      base_file: fFFF8.txt
+      order: 65
+    f9EE2:
+      title: CXIII_1. Five attributes of perfect wisdom
+      base_file: f9EE2.txt
+      order: 66
+    f4888:
+      title: CXIII_2. Spiritual rebirth resulting from this knowledge
+      base_file: f4888.txt
+      order: 67
+    f6B19:
+      title: CXIII_3. Nothing to take hold of
+      base_file: f6B19.txt
+      order: 68
+    f4484:
+      title: CXIII_4. Reaction of the gods
+      base_file: f4484.txt
+      order: 69
+    f86CC:
+      title: CXIV_1. Future and past rebirths
+      base_file: f86CC.txt
+      order: 70
+    f848D:
+      title: CXIV_2. Past deeds of a bodhisattva who fails in perfect wisdom
+      base_file: f848D.txt
+      order: 71
+    fD622:
+      title: CXIV_3. Four similes
+      base_file: fD622.txt
+      order: 72
+    f9D76:
+      title: CXV_1. The beginner’s task
+      base_file: f9D76.txt
+      order: 73
+    f77BA:
+      title: CXV_2. How a bodhisattva helps beings
+      base_file: f77BA.txt
+      order: 74
+    f3968:
+      title: CXV_3. Description of perfect wisdom
+      base_file: f3968.txt
+      order: 75
+    fA2EA:
+      title: CXVI_1. Tathagata-suchness
+      base_file: fA2EA.txt
+      order: 76
+    fF78E:
+      title: CXVI_2. The earth shakes, and many are saved
+      base_file: fF78E.txt
+      order: 77
+    f5BD9:
+      title: CXVI_3. Perfect wisdom and skill in means
+      base_file: f5BD9.txt
+      order: 78
+    f80F3:
+      title: CXVI_4. Enlightenment and emptiness
+      base_file: f80F3.txt
+      order: 79
+    f77C5:
+      title: CXVI_5. Requisites of going forth to enlightenment
+      base_file: f77C5.txt
+      order: 80
+    f1114:
+      title: CXVII_1. Various tokens of irreversibility
+      base_file: f1114.txt
+      order: 81
+    fAFFA:
+      title: CXVII_2. Mara’s deeds
+      base_file: fAFFA.txt
+      order: 82
+    fC254:
+      title: CXVII_3. More tokens of irreversibility
+      base_file: fC254.txt
+      order: 83
+    f9E65:
+      title: CXVIII_1. Deep stations
+      base_file: f9E65.txt
+      order: 84
+    fFEEE:
+      title: CXVIII_2. How to attend to perfect wisdom
+      base_file: fFEEE.txt
+      order: 85
+    f618B:
+      title: CXVIII_3. Merit
+      base_file: f618B.txt
+      order: 86
+    f056F:
+      title: CXVIII_4. Immeasurable, empty and talk
+      base_file: f056F.txt
+      order: 87
+    fDBD3:
+      title: CXVIII_5. No growth or diminution
+      base_file: fDBD3.txt
+      order: 88
+    fBAAC:
+      title: CXIX_1. Conditioned coproduction
+      base_file: fBAAC.txt
+      order: 89
+    fC6C2:
+      title: CXIX_2. No development
+      base_file: fC6C2.txt
+      order: 90
+    f92B4:
+      title: CXIX_3. No objective supports and no own-being
+      base_file: f92B4.txt
+      order: 91
+    f1BC9:
+      title: CXIX_4. Five places which inspire fear
+      base_file: f1BC9.txt
+      order: 92
+    f4793:
+      title: CXIX_5. Prediction of the goddess of the Ganges
+      base_file: f4793.txt
+      order: 93
+    fD2F3:
+      title: CXX_1. Emptiness and reality-limit
+      base_file: fD2F3.txt
+      order: 94
+    f75C7:
+      title: CXX_2. Three similes
+      base_file: f75C7.txt
+      order: 95
+    fD3D7:
+      title: CXX_3. Doors to deliverance and vows about beings
+      base_file: fD3D7.txt
+      order: 96
+    f15F6:
+      title: CXX_4. Irreversibility
+      base_file: f15F6.txt
+      order: 97
+    fA2F7:
+      title: CXX_5. Dream experiences and the mark of irreversibility
+      base_file: fA2F7.txt
+      order: 98
+    fAD99:
+      title: CXX_6. Irreversibility and the magical power of veracity
+      base_file: fAD99.txt
+      order: 99
+    f2B45:
+      title: CXXI_1. Pride and the magical power of veracity
+      base_file: f2B45.txt
+      order: 100
+    fD280:
+      title: CXXI_2. Pride in connection with the annunciation of the name
+      base_file: fD280.txt
+      order: 101
+    fABF6:
+      title: CXXI_3. Faults in connection with detachment
+      base_file: fABF6.txt
+      order: 102
+    f8B43:
+      title: CXXII_1. The good friends
+      base_file: f8B43.txt
+      order: 103
+    f13C7:
+      title: CXXII_2. Emptiness, defilements and purification
+      base_file: f13C7.txt
+      order: 104
+    f8269:
+      title: CXXII_3. Attentions to perfect wisdom, and the pearl of great price
+      base_file: f8269.txt
+      order: 105
+    fC069:
+      title: CXXII_4. Emptiness and growth in enligthenment
+      base_file: fC069.txt
+      order: 106
+    fB346:
+      title: CXXIII_1. The superior position of bodhisattvas
+      base_file: fB346.txt
+      order: 107
+    fD8AD:
+      title: CXXIII_2. Rewards of perfect wisdom
+      base_file: fD8AD.txt
+      order: 108
+    f641C:
+      title: CXXIV_1. Conditions which open a bodhisattva to Mara’s influence
+      base_file: f641C.txt
+      order: 109
+    f29C5:
+      title: CXXIV_2. The bodhisattva’s rigth attitude to other bodhisattvas
+      base_file: f29C5.txt
+      order: 110
+    f01E8:
+      title: CXXV_1. How a bodhisattva is trained in all-knowledge
+      base_file: f01E8.txt
+      order: 111
+    f1A31:
+      title: CXXV_2. Fewness of bodhisattvas
+      base_file: f1A31.txt
+      order: 112
+    fAC84:
+      title: CXXV_3. The perfection of wisdom comprehends all perfections
+      base_file: fAC84.txt
+      order: 113
+    f9144:
+      title: CXXV_4. Merit from perfect wisdom
+      base_file: f9144.txt
+      order: 114
+    fC1FB:
+      title: CXXV_5. Bodhisattvas and disciples
+      base_file: fC1FB.txt
+      order: 115
+    f4AEF:
+      title: CXXVI_1. Sakra praises the bodhisattvas
+      base_file: f4AEF.txt
+      order: 116
+    f8F8A:
+      title: CXXVI_2. Jubilation, turning over and merit
+      base_file: f8F8A.txt
+      order: 117
+    fEADC:
+      title: CXXVI_3. The nature of illusion
+      base_file: fEADC.txt
+      order: 118
+    fA91F:
+      title: CXXVII_1. The bodhisattva’s courage in difficulties
+      base_file: fA91F.txt
+      order: 119
+    fF914:
+      title: CXXVII_2. The bodhisattva protected by the gods and against Mara
+      base_file: fF914.txt
+      order: 120
+    f70CA:
+      title: CXXVII_3. The buddhas praise the bodhisattva
+      base_file: f70CA.txt
+      order: 121
+    f64BC:
+      title: CXXVII_4. Enlightenment and suchness
+      base_file: f64BC.txt
+      order: 122
+    fD7B2:
+      title: CXXVII_5. Emptiness and dwelling in perfect wisdom
+      base_file: fD7B2.txt
+      order: 123
+    f57DF:
+      title: CXXVIII_1. Prediction of Avakirnakusuma
+      base_file: f57DF.txt
+      order: 124
+    f3CBD:
+      title: CXXVIII_3. Transmission of the sutra to Ananda
+      base_file: f3CBD.txt
+      order: 125
+    f223C:
+      title: CXXVIII_4. Akshobhya’s buddha-field
+      base_file: f223C.txt
+      order: 126
+    f9FF4:
+      title: CXXVIII_5. Extinction, non-extinction and perfect wisdom
+      base_file: f9FF4.txt
+      order: 127
+    fE662:
+      title: CXXVIII_6. Advantages derived from perfect wisdom
+      base_file: fE662.txt
+      order: 128
+    fB824:
+      title: 29. Parivarta
+      base_file: fB824.txt
+      order: 129
+    fACC5:
+      title: CXXIX_1. Sadaprarudita sets out to find perfect wisdom
+      base_file: fACC5.txt
+      order: 130
+    fED60:
+      title: CXXIX_2. Description of Gandhavati, and of Dharma_udgata’s life
+      base_file: fED60.txt
+      order: 131
+    fAAA6:
+      title: CXXIX_3. List and significance of concentrations
+      base_file: fAAA6.txt
+      order: 132
+    fE4CF:
+      title: CXXIX_4. Sadaprarudita and the merchant’s daughter
+      base_file: fE4CF.txt
+      order: 133
+    f0AFF:
+      title: CXXIX_5. The meeting with Dharma_udgata
+      base_file: f0AFF.txt
+      order: 134
+    fA4D9:
+      title: CXXX_1. The coming and going of the tathagatas
+      base_file: fA4D9.txt
+      order: 135
+    fFFD6:
+      title: CXXX_2. Sadaprarudita’s self sacrifice
+      base_file: fFFD6.txt
+      order: 136
+    fC11C:
+      title: CXXX_3. Dharma_udgata’s demonstration of dharma
+      base_file: fC11C.txt
+      order: 137
+    f91E8:
+      title: CXXXI_1. End of the story of Sadaprarudita
+      base_file: f91E8.txt
+      order: 138
+    f5B84:
+      title: CXXXI_2. The perfection of wisdom entrusted to Ananda
+      base_file: f5B84.txt
+      order: 139
+  chapter_to_tile:
+    CI: 1. Parivarta
+    CII: 2. Parivarta
+    CIII: 3. Parivarta
+    CIV: 4. Parivarta
+    CV: 5. Parivarta
+    CVI: 6. Parivarta
+    CVII: 7. Parivarta
+    CVIII: 8. Parivarta
+    CIX: 9. Parivarta
+    CX: 10. Parivarta
+    CXI: 11. Parivarta
+    CXII: 12. Parivarta
+    CXIII: 13. Parivarta
+    CXIV: 14. Parivarta
+    CXV: 15. Parivarta
+    CXVI: 16. Parivarta
+    CXVII: 17. Parivarta
+    CXVIII: 18. Parivarta
+    CXIX: 19. Parivarta
+    CXX: 20. Parivarta
+    CXXI: 21. Parivarta
+    CXXII: 22. Parivarta
+    CXXIII: 23. Parivarta
+    CXXIV: 24. Parivarta
+    CXXV: 25. Parivarta
+    CXXVI: 26. Parivarta
+    CXXVII: 27. Parivarta
+    CXXVIII: 28. Parivarta
+    CXXIX: 30. Parivarta
+    CXXX: 31. Parivarta
+    CXXXI: 32. Parivarta
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
